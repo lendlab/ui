@@ -11,7 +11,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@acme/ui": "workspace:*",
+    "@lendlab/ui": "workspace:*",
     "@acme/utils": "workspace:*",
     "@vercel/examples-ui": "^1.0.4",
     "next": "canary",
