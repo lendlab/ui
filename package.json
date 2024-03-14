@@ -12,7 +12,8 @@
     "start": "turbo run start",
     "lint": "turbo run lint",
     "clean": "turbo run clean",
-    "co":"npx cz"
+    "co": "npx cz",
+    "prepare": "husky"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.1.0",
