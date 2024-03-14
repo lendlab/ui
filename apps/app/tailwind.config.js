@@ -1,4 +1,4 @@
-const ui = require('@acme/ui/tailwind')
+const ui = require('@lendlab/ui/tailwind')
 
 module.exports = {
   presets: [require('@vercel/examples-ui/tailwind'), ui],
