@@ -39,7 +39,8 @@
   },
   "dependencies": {
     "@swc/helpers": "^0.4.12",
-    "clsx": "^1.1.1"
+    "clsx": "^1.1.1",
+    "tailwind-merge": "^2.2.1"
   },
   "devDependencies": {
     "@types/react": "latest",
