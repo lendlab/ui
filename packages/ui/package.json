@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "@swc/helpers": "^0.4.12",
+    "class-variance-authority": "^0.7.0",
     "clsx": "^1.1.1",
     "tailwind-merge": "^2.2.1"
   },
