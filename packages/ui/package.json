@@ -45,7 +45,13 @@
   },
   "devDependencies": {
     "@types/react": "latest",
-    "eslint": "^8.11.0",
-    "typescript": "4.8.4"
+    "typescript": "4.8.4",
+    "@lendlab/eslint-config":"workspace:*"
+  },
+  "eslintConfig": {
+    "root": true,
+    "extends": [
+      "@lendlab/eslint-config/react"
+    ]
   }
 }
