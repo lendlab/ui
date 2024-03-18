@@ -1,0 +1,6 @@
+{
+  "root": true,
+    "extends": [
+      "@lendlab/eslint-config/next"
+    ]
+}
